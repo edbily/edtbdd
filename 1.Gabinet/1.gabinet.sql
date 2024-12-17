@@ -7,7 +7,7 @@ CREATE DATABASE zoos;
 -- Echo por Bilal Balghouch con identificador a241482bb
 -- Escola del treball
 -- Version final 1.0
--- https://github.com/Bilalbel04
+-- https://github.com/edbily
 
 -- Crear la tabla zoologic
 CREATE TABLE zoologic (
